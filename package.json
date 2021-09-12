@@ -10,6 +10,7 @@
   "dependencies": {
     "@slack/web-api": "^6.4.0",
     "axios": "^0.21.1",
+    "ksuid": "^2.0.0",
     "slack-secret-middleware": "^1.2.0"
   }
 }
